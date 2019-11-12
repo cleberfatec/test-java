@@ -1,0 +1,10 @@
+br\com\blz\testjava\config\SwaggerConfig.class
+br\com\blz\testjava\exception\ProdutoExistenteException.class
+br\com\blz\testjava\TestJavaApplication.class
+br\com\blz\testjava\service\ProdutoService.class
+br\com\blz\testjava\exception\ProdutoInexistenteException.class
+br\com\blz\testjava\model\Produto.class
+br\com\blz\testjava\repository\ProdutoRepository.class
+br\com\blz\testjava\model\Inventory.class
+br\com\blz\testjava\model\Warehouse.class
+br\com\blz\testjava\endpoint\ProdutoEndpoint.class
